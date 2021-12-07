@@ -7,7 +7,7 @@ setup(
     author='Brittany',
     author_email='brittmmendez@gmail.com',
     # Needed to actually package something
-    packages=['brittspractice'],
+    packages=['mathematics'],
     # Needed for dependencies
     install_requires=['numpy'],
     # *strongly* suggested for sharing
