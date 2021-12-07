@@ -2,12 +2,12 @@ from setuptools import setup
 
 setup(
     # Needed to silence warnings (and to be a worthwhile package)
-    name='Measurements',
+    name='Math is Fun',
     url='https://github.com/jladan/package_demo',
-    author='John Ladan',
-    author_email='jladan@uwaterloo.ca',
+    author='Brittany',
+    author_email='brittmmendez@gmail.com',
     # Needed to actually package something
-    packages=['measure'],
+    packages=['mathematics'],
     # Needed for dependencies
     install_requires=['numpy'],
     # *strongly* suggested for sharing
