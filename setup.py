@@ -3,11 +3,11 @@ from setuptools import setup
 setup(
     # Needed to silence warnings (and to be a worthwhile package)
     name='Math is Fun',
-    url='https://github.com/jladan/package_demo',
+    url='https://github.com/brittmmendez/github-package-demo.git',
     author='Brittany',
     author_email='brittmmendez@gmail.com',
     # Needed to actually package something
-    packages=['BrittsPractice'],
+    packages=['brittspractice'],
     # Needed for dependencies
     install_requires=['numpy'],
     # *strongly* suggested for sharing
